@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobergsatoko, Alin.
 - 👀 I’m interested in expanding human consciousness, creating & merging with artificial intelligence.
-- 🌱 I’m currently learning reinforcement learning, generative adversial networks, signal processing.
+- 🌱 I’m currently learning reinforcement learning, generative adversial networks, neural signal processing.
 - :star: 7+ years of experience as a Front End developer building production ready user interfaces.
 - 💞️ I’m looking to collaborate on projects and ideas that can help create the future I imagine.
 - 📫 You can reach me at boberg.satoko@gmail.com.
