@@ -4,4 +4,3 @@
 - :star: 7+ years of experience as a Front End developer building production ready user interfaces.
 - 💞️ I’m looking to collaborate on projects and ideas that can help create the future I imagine.
 - 📫 You can reach me at boberg.satoko@gmail.com.
-- I also love coding systems, especially user interfaces (for - or exclusively for) Robots.
